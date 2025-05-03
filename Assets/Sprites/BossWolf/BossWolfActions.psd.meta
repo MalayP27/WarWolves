@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 5097938841d20a74db1988f5488cee56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4120833341908386418
+    second: BossWolfActions_0
+  - first:
+      213: 4720304514748530480
+    second: BossWolfActions_1
+  - first:
+      213: 6138602673863812012
+    second: BossWolfActions_2
+  - first:
+      213: 6842881027383171656
+    second: BossWolfActions_3
+  - first:
+      213: -6528389085645698890
+    second: BossWolfActions_4
+  - first:
+      213: -5501575927404294059
+    second: BossWolfActions_5
+  - first:
+      213: 1006514203799912666
+    second: BossWolfActions_6
+  - first:
+      213: -1083433091330390161
+    second: BossWolfActions_7
+  - first:
+      213: 1938497375313333783
+    second: BossWolfActions_8
+  - first:
+      213: 7078092806393408700
+    second: BossWolfActions_9
+  - first:
+      213: -434920762236753060
+    second: BossWolfActions_10
+  - first:
+      213: 5124795550218754572
+    second: BossWolfActions_11
+  - first:
+      213: -4447334760266564277
+    second: BossWolfActions_12
+  - first:
+      213: 8054377798475562795
+    second: BossWolfActions_13
+  - first:
+      213: -2582436484023269038
+    second: BossWolfActions_14
+  - first:
+      213: 1928962147349627721
+    second: BossWolfActions_15
+  - first:
+      213: -9143673525348956942
+    second: BossWolfActions_16
+  - first:
+      213: -2514062616596509531
+    second: BossWolfActions_17
+  - first:
+      213: -2653706670509689342
+    second: BossWolfActions_18
+  - first:
+      213: -7509625052270664667
+    second: BossWolfActions_19
+  - first:
+      213: -4318403072182824809
+    second: BossWolfActions_20
+  - first:
+      213: 537716618061092369
+    second: BossWolfActions_21
+  - first:
+      213: 6726476582047319295
+    second: BossWolfActions_22
+  - first:
+      213: -7420055656875488568
+    second: BossWolfActions_23
+  - first:
+      213: -7210838781931985045
+    second: BossWolfActions_24
+  - first:
+      213: -2829114653355287423
+    second: BossWolfActions_25
+  - first:
+      213: -6846320922740072608
+    second: BossWolfActions_26
+  - first:
+      213: 287837929261126726
+    second: BossWolfActions_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossWolfActions_0
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 4205
+        width: 409
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27209036714203930800000000000000
+      internalID: 4120833341908386418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_1
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 4205
+        width: 418
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f324962f3e18140800000000000000
+      internalID: 4720304514748530480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_2
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 4215
+        width: 417
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca36ae0bb92b03550800000000000000
+      internalID: 6138602673863812012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_3
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 4215
+        width: 408
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a1f6d0a0cc6fe50800000000000000
+      internalID: 6842881027383171656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_4
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 4215
+        width: 418
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b80d8a27b08665a0800000000000000
+      internalID: -6528389085645698890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_5
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 3600
+        width: 437
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5501a36b7d976a3b0800000000000000
+      internalID: -5501575927404294059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_6
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 3590
+        width: 420
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad001eae55bd7fd00800000000000000
+      internalID: 1006514203799912666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_7
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 3590
+        width: 417
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67495df75fd6f0f0800000000000000
+      internalID: -1083433091330390161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_8
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 3590
+        width: 417
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e049d971de6ea10800000000000000
+      internalID: 1938497375313333783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2916
+        width: 403
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbca354f7ef6a3260800000000000000
+      internalID: 7078092806393408700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_10
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2921
+        width: 341
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5baf6dfed9d6f9f0800000000000000
+      internalID: -434920762236753060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_11
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 2914
+        width: 341
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a9a4d866eee1740800000000000000
+      internalID: 5124795550218754572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_12
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 2904
+        width: 569
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d70193994e742c0800000000000000
+      internalID: -4447334760266564277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_13
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 2890
+        width: 571
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fbdec0fe5e6cf60800000000000000
+      internalID: 8054377798475562795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_14
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 2887
+        width: 591
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259c8ca33b7592cd0800000000000000
+      internalID: -2582436484023269038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2218
+        width: 291
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94303f95adc05ca10800000000000000
+      internalID: 1928962147349627721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_16
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2218
+        width: 300
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48e6bbf552b1180800000000000000
+      internalID: -9143673525348956942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_17
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 2218
+        width: 317
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac0daace514c1dd0800000000000000
+      internalID: -2514062616596509531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_18
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 2218
+        width: 317
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2067f26d7d32c2bd0800000000000000
+      internalID: -2653706670509689342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_19
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1639
+        width: 301
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524680b7dc378c790800000000000000
+      internalID: -7509625052270664667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1000
+        width: 410
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79056952943f114c0800000000000000
+      internalID: -4318403072182824809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_21
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 990
+        width: 434
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1161b594a6a567700800000000000000
+      internalID: 537716618061092369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_22
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 983
+        width: 441
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff40aee10de395d50800000000000000
+      internalID: 6726476582047319295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_23
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 983
+        width: 441
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca0f4671baa60990800000000000000
+      internalID: -7420055656875488568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_24
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 1040
+        width: 340
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67655e1554fdeb90800000000000000
+      internalID: -7210838781931985045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_25
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 1082
+        width: 310
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cd7e94637fcb8d0800000000000000
+      internalID: -2829114653355287423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_26
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 1137
+        width: 194
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fd0c5e46bfcf0a0800000000000000
+      internalID: -6846320922740072608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossWolfActions_27
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 1152
+        width: 167
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6445e76521b9ef300800000000000000
+      internalID: 287837929261126726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

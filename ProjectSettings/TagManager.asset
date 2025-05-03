@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Enemy
+  - Checkpoint
+  - Key
+  - EndTrigger
+  - Chest
+  - EnemyPatrol
+  - MoveableBlock
+  - Collectible
+  - Projectile
   layers:
   - Default
   - TransparentFX
@@ -11,13 +21,13 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Background
+  - PlayerInteractives
+  - Ground
+  - Tree
+  - Player
+  - Enemy
+  - Projectile
   - 
   - 
   - 
@@ -40,4 +50,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3581628629
+    locked: 0
+  - name: PlayerInteractiveLevel
+    uniqueID: 2815808197
     locked: 0
